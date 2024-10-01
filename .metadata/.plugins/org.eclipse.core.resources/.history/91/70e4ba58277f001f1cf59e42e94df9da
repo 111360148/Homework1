@@ -1,0 +1,17 @@
+package s12;
+
+public class Sample12 
+{
+  public static void main(String[] args)
+  {
+	int num1=10;
+	int num2=5;
+	  
+	System.out.println("num1和num2的各種運算:");
+	System.out.println("變數num1的值是:"+num1);
+	
+	num1=num1+1;
+	
+	System.out.println("變數num1的值加1之後是:"+num1);
+  }
+}
